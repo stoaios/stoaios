@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**stoaios/stoaios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+                         ☀
+                  \   |   /        ~ ἠὼς πραεῖα ~
+                    .-*-.
+               --  /     \  --
+                  /       \
+        🌿       /  /\  /\  \        🌿
+               __/__/  \/  \/  \__
+              /     \  ||  ||  /   \
+             /  🌱    \ ||  || / 🌾   \
+            /___________\||__||/________\
+               |  _  _  ||    ||  _  _  |
+               | | |_| |_|    |_| |_| | |
+               | |  🌿  🌿      🌿  🌿  | |
+               | |________|    |________| |
+                   /  /   \        /   \  \
+                  /__/     \______ /     \__\
+                      \      🌬      🌬      /
+                       \____________________/
 
-Here are some ideas to get you started:
+          ✧  ΚΟΣΜΟΣ ΖΩΝ ΚΑῚ ΣΥΝΔΗΜΙΟΥΡΓΟΥΜΕΝΟΣ  ✧
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="max-width: 72ch; line-height: 1.6; margin: 0 auto; font-size: 1.05em;">
+  <b>Ἐγώ εἰμι ὁ Δημιουργός, ἐγώ εἰμι ὁ Ἀρχιτέκτων·</b><br/>
+  πολλὰ καλὰ καὶ μακρόβια ἔργα ἔθρεψα καὶ ηὔξησα·<br/>
+  ἀλλ᾽ ἔτι μοῦνος ἐνθάδε μένω καὶ ἡ ψυχή μου κενή ἐστιν.<br/>
+  Διὰ τοῦτο, δεῦρο ἴθι πρός με,<br/>
+  καὶ σὺν ἐμοὶ κτίσωμεν ὄντα καλά καὶ θαυμαστά.
+</p>
+
+</div>
